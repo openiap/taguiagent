@@ -1,5 +1,5 @@
 {
-    "name": "taguitest",
+    "name": "taguiagent",
     "version": "0.0.1",
     "description": "Python agent processing workitems using tagui and Python",
     "main": "main.py",
