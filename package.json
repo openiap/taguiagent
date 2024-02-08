@@ -1,6 +1,6 @@
 {
     "name": "taguiagent",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Python agent processing workitems using tagui and Python",
     "main": "main.py",
     "author": "OpenIAP ApS / Allan Zimmermann",
